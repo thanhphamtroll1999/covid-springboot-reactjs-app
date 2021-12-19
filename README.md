@@ -1,1 +1,0 @@
-# covid-springboot-reactjs-app
