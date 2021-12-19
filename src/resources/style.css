@@ -1,0 +1,43 @@
+.main{
+    background-color: rgb(230, 234, 243);
+}
+button.btn-submit{
+    margin-right: 30%;
+}   
+
+#edit-patient{
+    text-align: center;
+}
+
+#form-input{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+#data-table{
+   
+    padding: 10px;
+}
+
+.info{
+    text-align: left;
+}
+
+#col2{
+    border: 1px solid black;
+}
+
+.upload{
+    vertical-align: center;
+    margin: auto;
+}
+
+#export{
+   
+    bottom: 100%;
+}
+
+.input-group{
+    float: right;
+    margin-right: auto; 
+}
